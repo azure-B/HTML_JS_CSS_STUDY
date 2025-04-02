@@ -20,3 +20,11 @@ semantic tag
 <footer>	        푸터	        HTML 문서 혹은 섹션 부분에 대한 푸터 정의, 사이트의 작성자, 저작권 정보, 연락처 등을 명시, 한 문서 내 여러개의 footer 요소 존재 가능
 <main>	            메인	        하나만 존재, html 문서의 주요 콘텐츠 정의
 <aside>	페이지 이외 콘텐츠	         페이지 부분 이외의 콘텐츠 정의
+
+길이
+em  /   요소의 글꼴
+ex  /   요소 글꼴의 x-height
+checkbox/ ..
+rem /   ..
+vw  /   ..
+vh  /   ..
