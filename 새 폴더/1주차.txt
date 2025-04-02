@@ -5,14 +5,14 @@
 <i>	                이텔릭체	    기울임
 <em>	            이텔릭체        실질적 강조	<strong> 과 같이 스크린 리더에 영향을 끼친다.
 <!--주석내용-->	     주석	        코드에 영향을 끼치지 않고 주석을 남길 수 있다.
-<a>	                링크	        새탭 혹은 현재 창에서 넣은 하이퍼링크로 연결된다. target : _blank, _self / 링크의 상태 : hover , active
-<img>	            이미지	        src: 이미지 주소, alt: 대체문자열, width, height, border 설정, a 태그의 content 에 img 태그를 넣어 링크로 설정 가능하다.
-<ul>, <ol>, <dl>	리스트	        순서가 없는 리스트(disc, circle, square), 순서가 있는 리스트(decimal, a, A, i, I), 정의 리스트
-<table>	            테이블	        tr: 행, td: 셀, th: 강조 셀(제목), colspan: 가로병합, rowspan: 세로병합, cellpadding: 셀 내 상하좌우 padding 한번에 설정
-<input>	            입력	        text, password, radio(하나만 선택), checkbox(다수 선택), file, select, textarea, button, submit, fieldset/ value(초기값), readonly, disabled, maxlenth, size
+* <a>	                링크	        새탭 혹은 현재 창에서 넣은 하이퍼링크로 연결된다. target : _blank, _self / 링크의 상태 : hover , active
+* <img>	            이미지	        src: 이미지 주소, alt: 대체문자열, width, height, border 설정, a 태그의 content 에 img 태그를 넣어 링크로 설정 가능하다.
+* <ul>, <ol>, <dl>	리스트	        순서가 없는 리스트(disc, circle, square), 순서가 있는 리스트(decimal, a, A, i, I), 정의 리스트
+* <table>	            테이블	        tr: 행, td: 셀, th: 강조 셀(제목), colspan: 가로병합, rowspan: 세로병합, cellpadding: 셀 내 상하좌우 padding 한번에 설정
+* <input>	            입력	        text, password, radio(하나만 선택), checkbox(다수 선택), file, select, textarea, button, submit, fieldset/ value(초기값), readonly, disabled, maxlenth, size
 
 semantic tag		
-<div>               (semantic tag 아님)	구역 분할	의미를 알기 어렵다.
+* <div>               (semantic tag 아님)	구역 분할	의미를 알기 어렵다.
 <header>	        헤더	        html 문서나 섹션에 대한 헤더를 정의, 도입부에 해당하는 콘텐츠를 갖는 부분, 한 문서 내 여러개의 header 존재 가능
 <nav>	            탐색 링크	    HTML 문서 사이를 탐색할 수 있는 링크의 집합 정의, 문서 내 모든 링크가 nav 에 포함되는 것은 아니다.
 <section>	        섹션	        HTML 문서에서 섹션 부분 정의, 제목을 가지고 있으며 HTML 문서의 전체적인 내용과 관련있는 콘텐츠 집합
@@ -28,3 +28,6 @@ checkbox/ ..
 rem /   ..
 vw  /   ..
 vh  /   ..
+
+
+1. 자기가 만들고 싶은 사이트 하나 차장오기
